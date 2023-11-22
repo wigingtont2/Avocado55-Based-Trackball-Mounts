@@ -21,7 +21,7 @@ https://www.amazon.com/gp/product/B08LCX8SDV<br />
 
 ### 3D Design
 - OpenSCAD 
-https://www.openscad.org
-You can adjust 3d design from scad file. You need OpenScad only if you need to modify design. I have not tested prints of all the variants currently supported, so some trial and error may be needed. If you do find an issue, please open a PR to correct it.
-- Ultimaker Cura slicer or any other 3d print slicer
-https://ultimaker.com/ja/software/ultimaker-cura
+https://www.openscad.org<br />
+You can adjust 3d design from scad file. You need OpenSCAD to create STLs for printing. There is currently one example STL and 3MJ included, with the settings I'm using on my Sovol SV06. I haven't done a lot of experimentation, but I would recommend against organic supports. Using them always resulted in being messy, and requiring clean-up to mount the sensor. I have not tested prints of all the variants currently possible, so some trial and error may be needed. If you do find an issue, please open a PR to correct it.
+- PrusaSlicer or any other 3d print slicer
+https://www.prusa3d.com/page/prusaslicer_424/
