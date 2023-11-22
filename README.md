@@ -7,7 +7,10 @@
 - Case
 - Filament
 - Magnets (Example: https://www.amazon.com/dp/B09TQQHQLP)
+- Something to add grip to the feet<br />
+This is necessary to prevent lateral motion, as the magnets don't do a great job at that. I use a thin layer of silicone caulk.
 - Metal plates (Example: https://www.amazon.com/dp/B093DQH88J)
+- PMW33XX with PCB https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor/
 - Ball transfer bearing (8mm)<br />
 
 The original project supported 2 BTUs, with adjustments to the depth of the bearing mounts to maintain the distance of the ball above the sensor. I did not use either of the original BTUs, so this project supports a third version. The original 2 BTUs should still work, if you set the bearing version, but I have not tested either. The base project does not link bearing version 1, but indicates that it's sold by uxcell. The bearings I used were made by uxcell, so it may be that changes to manufacturing have invalidated version 1 as an option.
